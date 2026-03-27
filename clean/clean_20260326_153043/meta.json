@@ -1,0 +1,20 @@
+{
+  "fps": 30,
+  "resolution": [
+    640,
+    480
+  ],
+  "imu_hz": 200,
+  "frames": {
+    "captured": {
+      "camera_0": 541,
+      "camera_1": 628,
+      "camera_2": 869
+    },
+    "written": {
+      "camera_0": 1231,
+      "camera_1": 1231,
+      "camera_2": 1231
+    }
+  }
+}
